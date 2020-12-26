@@ -1,3 +1,6 @@
+#Limpa memória do R
+rm(list = ls()) 
+
 # Loding Libraries 
 library(arules) 
 library(arulesViz) 
